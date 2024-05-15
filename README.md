@@ -1,2 +1,2 @@
 # bot
-It was made for Mark to check
+It was made for Mark to check it
